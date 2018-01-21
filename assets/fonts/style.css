@@ -1,4 +1,8 @@
 @font-face {
-   font-family: 'accent';
-   src: url('accent/font.ttf');
+   font-family: 'Vonique 64 Bold Italic';
+   src: url('Vonique 64 Bold Italic/font.ttf');
+}
+@font-face {
+   font-family: 'Vonique 64 Italic';
+   src: url('Vonique 64 Italic/font.ttf');
 }
